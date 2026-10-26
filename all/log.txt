@@ -1,0 +1,12 @@
+2026-10-25 10:00:01 INFO User egor logged in from 192.168.1.10
+2026-10-25 10:01:05 ERROR Failed login for user admin from 192.168.1.1
+2026-10-25 10:01:12 ERROR Failed login for user admin from 192.168.1.1
+2026-10-25 10:01:20 ERROR Failed login for user admin from 192.168.1.1
+2026-10-25 10:02:00 INFO User marina logged in from 192.168.1.15
+2026-10-25 10:05:10 ERROR Failed login for user root from 10.0.0.5
+2026-10-25 10:05:15 ERROR Failed login for user root from 10.0.0.5
+2026-10-25 10:10:00 INFO User egor logged out
+2026-10-25 10:15:30 ERROR Failed login for user admin from 192.168.1.1
+2026-10-25 10:15:35 ERROR Failed login for user admin from 192.168.1.1
+2026-10-25 10:16:00 ERROR Failed login for user guest from 10.0.0.8
+2026-10-25 10:20:00 INFO User admin logged in from 192.168.1.1
